@@ -1,20 +1,19 @@
 # COMP90086 - Computer Vision
 
 ### Assignment 1 - Laplacian Pyramid Image Compression
-Laplacian pyramid construction and reconstruction functions were implemennted in Python, and the images were Compressed by quantizing pyramid layers and reconstructing the image.
+Python implementations of Laplacian pyramid construction and reconstruction functions were utilized to compress images. This involved quantizing pyramid layers and subsequently reconstructing the image. The impact of compression on image quality and frequency content was thoroughly assessed, leading to the identification of an optimal trade-off between compression ratio and reconstruction error.
 
-Analyzed effects of compression on image quality and frequency content. Found a good balance between compression ratio and reconstruction error.
 ----
 
 ### Assignment 2 - Scene Classification with CNNs
-The second assignment was to outline a research plan for the proposed research topic. In our case, unsupervised domain adaptation for monocular depth estimation from synthetic to real environments was investigated. The plan suggested a combination of domain randomization and generative adversarial networks, by providing a thorough explanation of the motivation, research question context, investigative and analysis methods, as well as the potential contributions of the study.
+A CNN was implemented and trained on a subset of the SceneNet dataset. Data augmentation techniques were applied to enhance the dataset, and the performance of the trained model was analyzed. The influence of different convolutional kernel sizes on accuracy was examined, and the learned kernels were visualized. 
 
 ----
 
 ### Assignment 3 - Image Inpainting
-The second assignment was to outline a research plan for the proposed research topic. In our case, unsupervised domain adaptation for monocular depth estimation from synthetic to real environments was investigated. The plan suggested a combination of domain randomization and generative adversarial networks, by providing a thorough explanation of the motivation, research question context, investigative and analysis methods, as well as the potential contributions of the study.
+A thorough analysis was conducted on an image inpainting algorithm designed to fill in missing regions in images by replicating patterns from neighboring areas. Various enhancements were explored to improve the image quality, including experimenting with different context window sizes and shapes. Additionally, alternative patch similarity metrics, sampling approaches, and reconstruction orders were tested to optimize the inpainting process.
 
 ----
 
 ### Final Project - Visually Similar Image Matching
-The second assignment was to outline a research plan for the proposed research topic. In our case, unsupervised domain adaptation for monocular depth estimation from synthetic to real environments was investigated. The plan suggested a combination of domain randomization and generative adversarial networks, by providing a thorough explanation of the motivation, research question context, investigative and analysis methods, as well as the potential contributions of the study.
+Models were developed and assessed for the purpose of matching similar image pairs from the Totally-Looks-Like dataset. Various techniques were explored, including Canny edge detection, utilization of pre-trained networks, and the implementation of a Siamese network with triplet loss. Among these approaches, the fine-tuned Siamese network exhibited superior performance, making it the most effective method for the task at hand.
