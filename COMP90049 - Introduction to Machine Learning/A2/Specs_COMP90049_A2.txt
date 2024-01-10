@@ -1,0 +1,3 @@
+In this assignment, you will implement classification models, apply them to various classification datasets, and evaluate the results. You will then answer some conceptual questions based on your observations.
+
+We have provided you with two sets of files (1) a Jupyter notebook which scaffolds your code and answers; (2) a zip archive that includes three data sets and one README file. Please carefully follow all the detailed instructions at the top of the Jupyter notebook. You will submit the completed Jupyter notebook  with both code and answers to the assignment questions.

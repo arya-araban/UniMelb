@@ -1,0 +1,13 @@
+Your Task: 
+
+you will apply the Decision Tree (DT) classification algorithm to a real-world machine learning dataset. Specifically, you will predict the type of a given bridge using a diverse set of features, including its material, length, number of lanes, and other structural properties. We use a modified version of the publicly available Pittsburgh Bridges Data SetLinks to an external site.. (click the link for more information on all features and values).
+
+In the Data Preparation section, you will read the dataset into a data frame and perform data preprocessing (Q1.1). You will also need to develop code to convert the features to numeric values (Q1.2). Then, the data will be divided into two parts: Train and Test.
+
+In the Model Training section, we provide you with a number of helper functions that will be incorporated into the main Decision Tree function (Q2-8). Your task is to read and use these functions and explain the exact role of each helper function in developing a Decision Tree. You must provide a meaningful and descriptive name for each function that matches its specific role in training a Decision Tree model (e.g., count_labels, calculate_entropy, etc.). You may also other conceptual questions for each given function. NOTE: You do not need to literally re-name the functions in the provided code.
+
+You can observe the use of each of these functions in the Main Decision Tree Algorithm, which you can use to print your trained tree. We have also provided the code for navigating a trained tree and using it to predict the labels for the test dataset.
+
+In the Classification and Evaluation section, you will test and evaluate your model. You will implement functions to calculate the accuracy of the model predictions (Q9). Finally, you will train a tree and use it to predict the labels for the test set and see the accuracy of your model (Q10).
+
+The assignment concludes with analytical questions in which you will critically analyse the behaviour of your decision tree in different situations (Q11).
