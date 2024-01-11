@@ -12,9 +12,9 @@ MPC was implemented for a Linear Time-Invariant (LTI) system to study the effect
 
 ------
 
-### Assignment 3 - Model Predictive Control (MPC) implementation
+### Assignment 3 - Sim2Real Line Following
 
-This assignment involved a 1/10 scale car to facilitate the transfer of a policy from simulation to real-world implementation. The work included tuning and benchmarking a line detection algorithm and designing two controllers: a rule-based controller and a pure pursuit controller. The rule-based controller used logical rules and a constant steering angle offset, while the pure pursuit controller prioritized speed by looking ahead for targets. Performance evaluation in simulation showed their effectiveness in following the road and completing the course.
+This assignment involved a 1/10 scale car to facilitate the transfer of a policy from simulation to real-world implementation. The work included tuning and benchmarking a line detection algorithm and designing two controllers: a rule-based controller and a pure pursuit controller. The rule-based controller used logical rules and a constant steering angle offset, while the pure pursuit controller prioritized speed by looking ahead for targets. Performance evaluations showed the effectiveness of the controllers in following the road and completing the course.
 
 ------
 
