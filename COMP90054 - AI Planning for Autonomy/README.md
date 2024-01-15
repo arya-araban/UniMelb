@@ -1,4 +1,4 @@
-# COMP90086 - AI Planning for Autonomy 
+# COMP90054 - AI Planning for Autonomy
 
 ### Assignment 1 - AI Search
 
