@@ -1,4 +1,4 @@
-# COMP90086 - Computer Vision
+# COMP90049 - Introduction to Machine Learning
 
 ### Assignment 1 - Decision Tree Classification
 The first assignment involved implementing a decision tree classifier to predict bridge types using a dataset of structural features like material, length, and number of lanes. The tasks included data preprocessing, converting features to numeric values, developing helper functions for calculating entropy and splitting nodes, training the decision tree model, and evaluating its accuracy on a test set.
