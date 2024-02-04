@@ -18,6 +18,6 @@ This assignment involved a 1/10 scale car to facilitate the transfer of a policy
 
 ------
 
-### Final Project - Autonomous Driving Simulation-Based Policy Comparison
+### Final Project - Simulation-Based Autonomous Driving with Reinforcemnt Learning 
 
 Synthesized, verified, and compared advanced policies for autonomous driving on high-speed roads with tight corners. Simulated roads were created, and performance metrics, such as the progress of the car on the road path, were defined. Policies were implemented using Reinforcement Learning (RL) methods, specifically Proximal Policy Optimization (PPO) and Trust Region Policy Optimization (TRPO). PPO exhibited superior performance overall, while TRPO showed slightly faster execution.
